@@ -1,0 +1,3 @@
+#Létrehozunk egy hajót, aminek csak üres TorpedoStore-jai vannak
+GT4500,0,0,10,0
+TORPEDO,SINGLE
