@@ -1,0 +1,5 @@
+# SINGLE: ha a soron következő tároló (secondary) üres, a primary-ből tüzel
+GT4500,2,0,0,0
+TORPEDO,SINGLE  # primary tüzel
+TORPEDO,SINGLE  # secondary következne, de üres -> ismét primary
+TORPEDO,SINGLE  # mindkét tároló kiürült
