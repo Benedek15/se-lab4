@@ -1,0 +1,3 @@
+# ALL: ha mindkét tároló üres, a tüzelés sikertelen
+GT4500,0,0,0,0
+TORPEDO,ALL  # nincs mit kilőni

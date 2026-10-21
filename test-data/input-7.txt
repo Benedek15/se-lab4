@@ -1,0 +1,4 @@
+# ALL: mindkét tárolóból tüzel
+GT4500,1,0,1,0
+TORPEDO,ALL     # primary és secondary is tüzel
+TORPEDO,SINGLE  # mindkét tároló kiürült

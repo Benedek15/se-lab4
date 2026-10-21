@@ -1,0 +1,3 @@
+SUCCESS  # <- GT4500
+SUCCESS  # <- TORPEDO,ALL (mindkét tároló tüzelt)
+FAIL     # <- TORPEDO,SINGLE (mindkét tároló üres)
